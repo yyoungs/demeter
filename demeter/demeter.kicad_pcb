@@ -10770,7 +10770,7 @@
 		(layer "Edge.Cuts")
 		(uuid "ff86d4a9-3ed1-49ff-b332-47f615b32b3a")
 	)
-	(gr_text "Demeter v0.2"
+	(gr_text "Demeter v0.2.yy"
 		(at 131.59 52.09 0)
 		(layer "F.SilkS")
 		(uuid "300d27c2-2d13-450d-93f5-97fee7ea950d")
@@ -10779,18 +10779,6 @@
 				(size 1.2 1.2)
 				(thickness 0.3)
 				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "12:45"
-		(at 114.88 48.33 0)
-		(layer "F.SilkS")
-		(uuid "66455a9f-2b0d-4247-8b68-ac27819f965a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
